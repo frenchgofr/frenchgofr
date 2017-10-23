@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on frenchgo.fr /ˈɡoʊfər/ </title>
+    <link>https://frenchgo.fr/post/</link>
+    <description>Recent content in Posts on frenchgo.fr /ˈɡoʊfər/ </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 24 Oct 2017 00:15:03 +0200</lastBuildDate>
+    
+	<atom:link href="https://frenchgo.fr/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Demarrage</title>
+      <link>https://frenchgo.fr/post/demarrage/</link>
+      <pubDate>Tue, 24 Oct 2017 00:15:03 +0200</pubDate>
+      
+      <guid>https://frenchgo.fr/post/demarrage/</guid>
+      <description>Bienvenu sur frenchgo.fr, le premier site français consacré au langage Go.</description>
+    </item>
+    
+  </channel>
+</rss>
