@@ -12,7 +12,7 @@ documentation/*.pdf*
 _*
 .tmp/
 node_modules/
-tags
+public/
 
 ### Go ###
 # Compiled Object files, Static and Dynamic libs (Shared Objects)

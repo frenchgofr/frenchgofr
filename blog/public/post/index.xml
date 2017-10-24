@@ -12,12 +12,13 @@
     
     
     <item>
-      <title>Demarrage</title>
-      <link>https://frenchgo.fr/post/demarrage/</link>
+      <title>Décollage</title>
+      <link>https://frenchgo.fr/post/decollage/</link>
       <pubDate>Tue, 24 Oct 2017 00:15:03 +0200</pubDate>
       
-      <guid>https://frenchgo.fr/post/demarrage/</guid>
-      <description>Bienvenu sur frenchgo.fr, le premier site français consacré au langage Go.</description>
+      <guid>https://frenchgo.fr/post/decollage/</guid>
+      <description>Bienvenu sur frenchgo.fr, le site français consacré au langage Go. Nous allons vous proposer du contenu pour démarrer en Go, des articles de fond sur le langage et son écosystème. Nous souhaitons vous tenir au courant de l&amp;rsquo;actualité du langage, vous faire découvrir ses atouts et ses figures emblématiques. Tout un programme.
+A très vite, La Team frenchgo.fr</description>
     </item>
     
   </channel>
