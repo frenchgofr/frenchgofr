@@ -19,5 +19,5 @@ A propos de l'équipe [frenchgo.fr](https://frenchgo.fr) :
 [Benjamin](https://twitter.com/BnJ25), devéloppeur chez [OVH](https://www.ovh.com/fr), le [Go](https://golang.org/doc/install) est arrivé jusque dans les bureaux du premier hébergeur français. Papa de [talk to my car](http://www.talk-to-my-car.com), Ben va au bout de ses idées.
 
 ![Romain](/img/romain.jpg)
-[Romain](https://twitter.com/rlespinasse), développeur chez [SFEIR Lille](https://www.sfeir.com), il est aussi tombé dans le Go chew Xee, son truc c'est le déploiement continu et continuer de parler de Go. 
+[Romain](https://twitter.com/rlespinasse), développeur chez [SFEIR Lille](https://www.sfeir.com), il est aussi tombé dans le Go chez Xee, son truc c'est le déploiement continu et continuer de parler de Go. 
 
