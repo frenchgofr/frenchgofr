@@ -9,7 +9,6 @@ documentation/diag-*.png*
 documentation/generated/*
 documentation/*.pdf*
 *.lock
-_*
 .tmp/
 node_modules/
 public/
