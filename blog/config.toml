@@ -40,6 +40,11 @@ googleAnalytics = "UA-48359234-3"
     title404 = "Page introuvable"
     subtitle404 = "On fera mieux le prochain coup"
 
+    # Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+    iconFont = "font-awesome"
+    # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+    socialIconStyle = "rounded"
+
 # Add additional social link entries underneath
 [social]
     twitter-square = "https://twitter.com/frenchgofr"
