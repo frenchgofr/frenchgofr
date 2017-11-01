@@ -4,8 +4,8 @@ title = "frenchgo.fr /ˈɡoʊfər/"
 theme = "hugo-theme-cactus-plus"
 googleAnalytics = "UA-48359234-3"
 
-[permalinks]
-  post = "/:year/:month/:title/"
+#[permalinks]
+#  post = "/:year/:month/:title/"
 
 [params]
 	name = "frenchgo.fr /ˈɡoʊfər/"
@@ -36,7 +36,6 @@ googleAnalytics = "UA-48359234-3"
     olderPosts = "Articles précédents"
     newerPosts = "Articles suivants"
     readMore = "En savoir plus"
-    copyright = "Copyright"
     # 404 page
     title404 = "Page introuvable"
     subtitle404 = "On fera mieux le prochain coup"
