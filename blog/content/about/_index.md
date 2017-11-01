@@ -13,7 +13,7 @@ A propos de l'équipe [frenchgo.fr](https://frenchgo.fr) :
 [Siegfried](https://twitter.com/SiegfriedEhret), développeur [SFEIR Paris](https://www.sfeir.com), il est très fort en coloriage mais n'a pas su résister à l'appel du [Go](https://golang.org/doc/install).   
 
 ![Alex](/img/alex.jpg)
-[Alex](https://twitter.com/alexandrejomin), lead back chez [Xee](http://www.xee.com), barbu, il est entré dans le [Go](https://golang.org/doc/install) chez Xee et maintenant le [Go](https://golang.org/doc/install) lui rend bien. Son objectif inavoué, avoir autant de swag avec ses poils que Dave Cheney.   
+[Alex](https://twitter.com/alexandrejomin), lead back chez [Xee](http://www.xee.com), barbu, il est entré dans le [Go](https://golang.org/doc/install) chez Xee et maintenant Go le lui rend bien. Son objectif inavoué, avoir autant de swag avec ses poils que Dave Cheney.   
 
 ![Benj](/img/benj.jpg)
 [Benjamin](https://twitter.com/BnJ25), devéloppeur chez [OVH](https://www.ovh.com/fr), le [Go](https://golang.org/doc/install) est arrivé jusque dans les bureaux du premier hébergeur français. Papa de [talk to my car](http://www.talk-to-my-car.com), Ben va au bout de ses idées.

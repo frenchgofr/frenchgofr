@@ -71,5 +71,5 @@ hasCJKLanguage = true
 # Add additional social link entries underneath
 [social]
 	facebook-square = "your_facebook_link"
-  twitter-square = "your_twitter_link"
-  github-square = "your_github_link"
+    twitter-square = "your_twitter_link"
+    github-square = "your_github_link"
