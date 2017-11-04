@@ -2,10 +2,11 @@ baseURL = "https://frenchgo.fr/"
 languageCode = "fr-FR"
 title = "frenchgo.fr /ˈɡoʊfər/"
 theme = "hugo-theme-cactus-plus"
-googleAnalytics = "UA-48359234-3"
 
-#[permalinks]
-#  post = "/:year/:month/:title/"
+removePathAccents = true
+
+[permalinks]
+  post = "/:year/:month/:title/"
 
 [params]
 	name = "frenchgo.fr /ˈɡoʊfər/"
@@ -22,6 +23,9 @@ googleAnalytics = "UA-48359234-3"
 
 	# Enable googleAnalytics
     enableGoogleAnalytics = true
+    googleAnalytics = "UA-48359234-3"
+
+    enableRobotsTXT = true
 
     # The variables below are optionally too and can be used to
     # translate or customize each string of the theme.
