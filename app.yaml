@@ -2,6 +2,42 @@ runtime: go
 api_version: go1
 
 handlers:
+
+- url: /css
+  static_dir: blog/public/css
+  secure: always
+  redirect_http_response_code: 301
+  http_headers:
+    Access-Control-Allow-Origin: '*'
+
+- url: /fonts
+  static_dir: blog/public/fonts
+  secure: always
+  redirect_http_response_code: 301
+  http_headers:
+    Access-Control-Allow-Origin: '*'
+
+- url: /js
+  static_dir: blog/public/js
+  secure: always
+  redirect_http_response_code: 301
+  http_headers:
+    Access-Control-Allow-Origin: '*'
+
+- url: /img
+  static_dir: blog/public/img
+  secure: always
+  redirect_http_response_code: 301
+  http_headers:
+    Access-Control-Allow-Origin: '*'
+
+- url: /images
+  static_dir: blog/public/images
+  secure: always
+  redirect_http_response_code: 301
+  http_headers:
+    Access-Control-Allow-Origin: '*'
+
 - url: /.*
   script: _go_app
   secure: always

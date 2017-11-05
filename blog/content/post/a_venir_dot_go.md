@@ -14,7 +14,7 @@ categories : [
 
 ![dotgo](/img/post/dotgo.png)
 
-La grand messe du [Go](https://golang.org) en Europe, j'ai nommé la [dotGo](https://www.dotgo.eu), se tiendra lundi 06 novembre au théâtre de Paris.
+La grand-messe du [Go](https://golang.org) en Europe, j'ai nommé la [dotGo](https://www.dotgo.eu), se tiendra lundi 06 novembre au théâtre de Paris.
 Une conférence dans la lignée des conférences [dot](https://www.dotconferences.com) : un lieu d'exception et une affiche 
 à faire baver n'importe quel gopher (contributeurs au langage et aux outils, formateurs, utilisateurs du langage, ...)
 
