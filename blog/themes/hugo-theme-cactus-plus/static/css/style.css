@@ -149,8 +149,6 @@ h2 {
 .profile #avatar {
     display: inline-block;
     width: 80px;
-    height: 80px;
-    border-radius: 50%;
     margin-bottom: 20px;
 }
 
@@ -926,4 +924,15 @@ a.symbol:hover {
 
 .page-tags .tags:hover a {
     color: #5694f1;
+}
+
+/*=========================================
+About page
+=========================================== */
+
+.about img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    max-width: 200px;
 }
