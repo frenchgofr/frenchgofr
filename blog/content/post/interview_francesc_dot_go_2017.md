@@ -17,7 +17,7 @@ On ne présente plus [francesc](https://twitter.com/francesc), le gopher le plus
 Nous avons eu la chance de l'interviewer lors de la dernière [dotGo](https://www.dotgo.eu/) qui s'est tenue à Paris lundi 06 novembre dernier.
 Et voici les questions que nous lui avons posé.  
 
-**Bonjour Francesc, première question, interview en Français ou en anglais ?**
+**Bonjour Francesc, première question, interview en français ou en anglais ?**
 
 C'est pour un site français ?  Alors en français.
 
