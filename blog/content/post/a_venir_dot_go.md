@@ -1,5 +1,6 @@
 ---
 title: "La dotGo 2017 en approche"
+description: "La team frenchgo.fr sera à la dotGo 2017"
 date: 2017-11-04T20:21:56+01:00
 draft: false
 tags : [

@@ -1,5 +1,6 @@
 ---
 title: "Interview Francesc dotGo 2017"
+description: "Interview de Francesc CAMPOY à la dotGo 2017"
 date: 2017-11-07T13:18:41+01:00
 draft: false
 tags : [
