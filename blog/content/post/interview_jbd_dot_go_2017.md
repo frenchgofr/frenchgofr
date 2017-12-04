@@ -1,5 +1,6 @@
 ---
 title: "Interview JBD dotGo 2017"
+description: "Interview de Jaana B. DOGAN à la dotGo 2017"
 date: 2017-11-27T13:18:41+01:00
 draft: false
 tags : [

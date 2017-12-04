@@ -1,5 +1,6 @@
 ---
 title: "Décollage"
+description: "Lancement du blog frenchgo.fr pour les passionnés de Go"
 date: 2017-10-24T00:15:03+02:00
 draft: false
 ---

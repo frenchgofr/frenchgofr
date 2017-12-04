@@ -10,8 +10,8 @@
                     </h1>
                     <h2 class="headline">
                     {{ .Date.Format "Jan 2, 2006 15:04" }}
-                    · {{ if lt 1 .WordCount }}{{ .WordCount }} words{{ else }}{{ .WordCount }} word{{ end }}
-                    · {{ if eq 1 .ReadingTime }}{{ .ReadingTime }} minute read{{ else }}{{ .ReadingTime }} minutes read{{ end }}
+                    · {{ if lt 1 .WordCount }}{{ .WordCount }} mots{{ else }}{{ .WordCount }} mot{{ end }}
+                    · {{ if eq 1 .ReadingTime }}{{ .ReadingTime }} minute de lecture{{ else }}{{ .ReadingTime }} minutes de lecture{{ end }}
                       <span class="tags">
                       {{ with .Params.tags }}
                       {{ if ge (len .) 1 }}
@@ -35,19 +35,13 @@
                 </section>
             </article>
 
-            {{ if .Site.Params.enableGithubIssuesTips }}
-                {{ partial "github-issues-tip.html" . }}
-            {{ end }}
+            <section id="sharing">
+            {{ partial "share.html" . }}
+            </section>
 
             {{ if .Site.Params.enableDisqus }}
                 {{ if ne .Params.disabledisqus "true" }}
                     {{ partial "disqus.html" . }}
-                {{ end }}
-            {{ end }}
-
-            {{ if .Site.Params.enableDuoshuo }}
-                {{ if ne .Params.disableduoshuo "true" }}
-                    {{ partial "duoshuo.html" . }}
                 {{ end }}
             {{ end }}
 
