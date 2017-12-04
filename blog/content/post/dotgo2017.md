@@ -12,3 +12,7 @@ categories : [
     "conferences",
 ]
 ---
+Nous avons le plaisir de partager les photos de la dotGo 2017.
+
+{{< load-photoswipe >}}
+{{< gallery dir="/img/post/dotgoimg2017" />}}

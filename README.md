@@ -44,6 +44,12 @@ Pour ajouter un article au blog la marche à suivre est la suivante.
 
 Et le tour est joué.
 
+## Edition avancée
+
+Penser aux [{{shortcodes}}](https://gohugo.io/content-management/shortcodes/) hugo pour faciliter l'intégration de ressources tierces.
+Mention spéciale pour les galeries d'image, suivre le guide [hugo-easy-gallery](https://github.com/liwenyip/hugo-easy-gallery)
+
+
 ## Prise en main d'App Engine
 
         gcloud config set account xxx.yyyy@mail.co
