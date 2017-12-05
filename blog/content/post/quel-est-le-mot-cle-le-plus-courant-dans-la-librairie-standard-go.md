@@ -144,3 +144,4 @@ Si vous avez apprécié cet épisode, n'oubliez pas de souscrire à [justforfunc
 
 Merci à [Francesc](https://twitter.com/francesc) de nous avoir autorisé à traduire son article, sa chaîne vient de passer les [10 000 abonnés](https://www.youtube.com/watch?v=kuted8F2KJw), bravo à lui !
 
+![](http://campoy.cat/l/happy.gif)
