@@ -218,13 +218,13 @@ nav.main-nav a.cta {
 }
 
 #wrapper {
-    max-width: 600px;
+    max-width: 640px;
     margin: 0 auto;
     padding: 60px 40px 100px 40px;
 }
 
 #wrapper.home {
-    max-width: 600px;
+    max-width: 640px;
     margin: 0 auto;
     padding: 0px 40px 20px 40px;
 }
@@ -281,10 +281,11 @@ ul>li {
 
 #post-body, p {
     line-height: 1.7;
+    text-align: justify;
 }
 #post-body p > a {
-  word-break: break-word;
-  white-space: pre-wrap;
+    word-break: break-word;
+    white-space: pre-wrap;
 }
 
 b, strong {
@@ -362,7 +363,7 @@ em, i {
 #post-list h2 {
     font: normal 17px/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #aaa;
-    max-width: 600px;
+    max-width: 640px;
     margin-top: 2px;
 }
 
@@ -739,7 +740,7 @@ h2.month {
 
 /* Media Queries */
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 640px) {
     #wrapper {
         padding: 20px 20px 20px 20px;
     }
