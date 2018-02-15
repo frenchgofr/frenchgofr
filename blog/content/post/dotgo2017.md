@@ -88,9 +88,9 @@ Vous trouverez tout le détail de sa [présentation ici](https://www.dotconferen
 
 #### William Kennedy : Behavior of channels
 
-Le logging est une une science difficile, choisir son niveau de log, quel détail de log, où logger ?
+Le logging est une science difficile, choisir son niveau de log, quel détail de log, où logger ?
 Il est aussi très facile de détériorer les performances d'un programme en ayant trop de log à traiter
-ou encore si le logger en peut écrire les logs sur le support choisi.
+ou encore si le logger ne peut écrire les logs sur le support choisi.
 Dans son live coding William Kennedy aka Bill, formateur Go de son état, nous montre comment se servir des outils du langage
 pour créer un logger non bloquant avec les mécanisme de Go, à savoir goroutine et channel.   
 Sa [vidéo est disponible ici](https://www.dotconferences.com/2017/11/william-kennedy-behavior-of-channels)
