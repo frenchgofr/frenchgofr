@@ -46,8 +46,8 @@ Go est un langage qui excelle dans le parallélisme et la concurrence, Sameer no
 Channel, verrous, go routine, conditions de courses, tout est illustrés de manière ludique dans cette présentation.   
 
 Sa [fiche dotGo est disponible ici](https://www.dotconferences.com/2017/11/sameer-ajmani-simulating-a-real-world-system-in-go)
- 
-{{< speakerdeck 7374acb4c326492fbf326cea56381f3d >}}
+
+<script async class="speakerdeck-embed" data-id="7374acb4c326492fbf326cea56381f3d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 et le code source de son talk est disponible sur [son github](https://github.com/Sajmani/dotgo)
 forkez si vous souhaitez tester par vous-même d'autres techniques pour préparer plus de café à la minute.
@@ -61,8 +61,7 @@ des concepts de programmation fonctionnelle à l'insu de notre plein gré, magni
  
 Ses [slides et vidéo sont disponibles ici](https://www.dotconferences.com/2017/11/john-cinnamond-go-lift).
 
-{{< speakerdeck 0f474ade72814bd9be851b03b854e04c >}}
-
+<script async class="speakerdeck-embed" data-id="0f474ade72814bd9be851b03b854e04c" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 #### Mat Ryer : The art of testing
 
@@ -113,7 +112,7 @@ Le travaille réalisé par le scheduler Go est identique à celui de l'OS : déf
 Jaana nous en présente ici les principes et stratégies.   
 [Slides et vidéo sont disponibles ici](https://www.dotconferences.com/2017/11/jaana-b-dogan-go-work-stealing-scheduler)   
 
-{{< speakerdeck 98640ef7bffd408e861f050cb1cc81e2 >}}   
+<script async class="speakerdeck-embed" data-id="98640ef7bffd408e861f050cb1cc81e2" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 #### Cindy Sridharan : Unmasking netpoll.go
 
@@ -122,7 +121,7 @@ Cindy Sridharan rentre dans les couches les plus basses du langage aux frontièr
 pour nous expliquer comment les couches de communications font leur travail et leur lien avec le scheduler du langage.    
 [Slides et vidéo sont disponibles ici](https://www.dotconferences.com/2017/11/cindy-sridharan-unmasking-netpoll-go)
 
-{{< speakerdeck 3e50f5a7d39b4316850fd7bcb372e220 >}}
+<script async class="speakerdeck-embed" data-id="3e50f5a7d39b4316850fd7bcb372e220" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 #### Liz Rice : Debuggers from scratch
 
@@ -131,7 +130,7 @@ dans un périple de 20 minutes ayant pour objectif d'implémenter un debugger de
 Très instructif sur les possibilités du package `ptrace` de Go.   
 [Slides et vidéo sont disponibles ici](https://www.dotconferences.com/2017/11/liz-rice-debuggers-from-scratch)
 
-{{< speakerdeck bc8d14557a084ccfa5a6987ca72f2743 >}}
+<script async class="speakerdeck-embed" data-id="bc8d14557a084ccfa5a6987ca72f2743" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 #### Francesc Campoy Flores : Machine learning and Go
 
@@ -139,7 +138,7 @@ Francesc a récemment quitté Google pour [source{d}](https://sourced.tech), ent
 Fort de sa passion pour le Go, Francesc nous montre ici les possibilités du langage en machine learning et calcul matriciel.  
 [Slides et vidéo sont disponibles ici](https://www.dotconferences.com/2017/11/francesc-campoy-flores-machine-learning-and-go)
 
-{{< speakerdeck 9f60ca6a63244109a0b4eb10dd1896f1 >}}
+<script async class="speakerdeck-embed" data-id="9f60ca6a63244109a0b4eb10dd1896f1" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 #### Brian Ketelsen : Is go moving to enterprise ?
 
