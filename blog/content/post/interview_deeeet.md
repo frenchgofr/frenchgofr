@@ -152,7 +152,7 @@ Il y a aussi [HashiCorp](https://github.com/hashicorp) qui a du très bon code.
 
 ## As-tu une citation favorite ?
 
-J'aime beaucoup la phrase de Rob Pike, «Readable means reliable» (Lisible signifie fiable). C'est la chose la plus important quand tu écris du code.
+J'aime beaucoup la phrase de Rob Pike, «Readable means reliable» (Lisible signifie fiable). C'est la chose la plus importante quand tu écris du code.
 
 ## Quelque chose à ajouter ?
 
