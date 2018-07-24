@@ -12,8 +12,6 @@ categories : [
 ]
 ---
 
-# Taichi Nakashima de chez Mercari
-
 The [english version is here](https://lemag.sfeir.com/interview-taichi-nakashima-from-mercari/) !
 
 ![](/img/post/180620_interview_deeeet/deeeet.jpg)
