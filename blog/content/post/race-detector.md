@@ -69,9 +69,9 @@ Non.
 
 Lire [Benign Data Races: What Could Possibly Go Wrong?](https://software.intel.com/en-us/blogs/2013/01/06/benign-data-races-what-could-possibly-go-wrong).
 
-![Le gopher aviateur pense qu'il peut soudainement occuper la même position que l'arbre, alors qu'en fait c'est problématique.](/img/post/180829_race_detector/gopher_aviator.png)
+![Le gaufre aviateur pense qu'il peut soudainement occuper la même position que l'arbre, alors qu'en fait c'est problématique.](/img/post/180829_race_detector/gopher_aviator.png)
 
-> Le gopher aviateur pense qu'il peut soudainement occuper la même position que l'arbre, alors qu'en fait c'est problématique.
+> Le [gaufre](https://fr.m.wikipedia.org/wiki/Gaufre_(animal)) aviateur pense qu'il peut soudainement occuper la même position que l'arbre, alors qu'en fait c'est problématique.
 
 ## Je lance mon programme et le détecteur ne me remonte rien. Cela signifie-t-il que mon code est correctement synchronisé ?
 
