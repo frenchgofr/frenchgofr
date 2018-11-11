@@ -56,3 +56,6 @@ Mention spéciale pour les galeries d'image, suivre le guide [hugo-easy-gallery]
         gcloud config set project projectName
         gcloud app deploy
         
+## Slack inviter
+
+Basé sur [slack inviter golang](http://github.com/flexd/slackinviter)

@@ -1,7 +1,16 @@
-runtime: go
-api_version: go1
+runtime: go111
+
+includes:
+- secrets.yaml
 
 handlers:
+
+- url: /inviter/static
+  static_dir: inviter/static
+  secure: always
+  redirect_http_response_code: 301
+  http_headers:
+      Access-Control-Allow-Origin: '*'
 
 - url: /css
   static_dir: blog/public/css
@@ -39,6 +48,6 @@ handlers:
     Access-Control-Allow-Origin: '*'
 
 - url: /.*
-  script: _go_app
+  script: auto
   secure: always
   redirect_http_response_code: 301
