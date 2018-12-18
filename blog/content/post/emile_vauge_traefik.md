@@ -165,7 +165,7 @@ qui permet de déployer et gérer en une ligne de commande un cluster complet su
 
 En résumé c’est un produit unique en son genre, c’est le seul reverse-proxy au monde à être déployé nativement en mode cluster,
 ce qui apporte la tolérance aux pannes, scalabilité, tout en gardant la simplicité d’utilisation de [Traefik](https://traefik.io).
-L’équipe est vraiment super fier de ce que nous avons accompli.
+L’équipe est vraiment super fière de ce que nous avons accompli.
 
 ## Bravo pour tout ce travail, on a hâte de découvrir tout ça !
 Oui pour nous ça été un énorme travail, la moitié de l’équipe travaille sur ce projet, mais une chose est à souligner :
