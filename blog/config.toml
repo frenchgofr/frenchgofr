@@ -2,6 +2,7 @@ baseURL = "https://frenchgo.fr/"
 languageCode = "fr-FR"
 title = "frenchgo.fr /ˈɡoʊfər/"
 theme = "hugo-theme-cactus-plus"
+googleAnalytics = "UA-48359234-3"
 
 removePathAccents = true
 
@@ -23,7 +24,6 @@ removePathAccents = true
 
 	# Enable googleAnalytics
     enableGoogleAnalytics = true
-    googleAnalytics = "UA-48359234-3"
 
     enableRobotsTXT = true
 
